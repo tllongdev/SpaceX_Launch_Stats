@@ -1,5 +1,7 @@
-##Space X Launch Stats
+## SpaceX Launch Stats
+
+Queries SpaceX API
 
 React Apollo GraphQL Express Node
 
-Queries Space X API 
+https://protected-caverns-03521.herokuapp.com/
